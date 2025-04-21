@@ -1,0 +1,22 @@
+.heading{
+ background-color: rgb(126, 112, 123);
+ color: rgb(15, 16, 16);
+ padding: 10px;
+ margin: 10px;
+ text-align: center;
+}
+.lorem{
+    background-color: rgb(221, 221, 236);
+    color: rgb(200, 43, 43);
+}
+.lorem2{
+    background-color: rgb(226, 192, 192);
+    color: brown;
+}
+.name{
+    color: rgb(193, 29, 59);
+    text-align: center;
+}
+.Heading3{
+    align-items: center;
+}
